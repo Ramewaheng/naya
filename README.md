@@ -1,2 +1,3 @@
 # naya
-This is my first Git Repositiry
+This is my first Git Repository.
+Author - Wahengbam Rameshori
